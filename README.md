@@ -1,9 +1,9 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://twitter.com/bhask4r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhaskar_gupta" height="20" width="20" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/bhaskar-gupta-3762631ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhaskargupta" height="20" width="20" /></a>&nbsp;
+<a href="https://hashnode.com/@bhask4r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="bhaskargupta" height="20" width="20" /></a>
+<a href="https://www.buymeacoffee.com/bhask4r"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -12,11 +12,11 @@
 - 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
+- 🌱 I’m currently learning IOS Development and node.js
+- 💬 Talk to me about Gaming(CSGO), Tech, Food, Music, Travel, Space, History. Have interest in almost everything sorry(been reading encyclopedia since 5 years old)   
 - 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
+- 📝 Checkout my freelance work on [my website](https://bhaskar.tech/)
+- 👯 We can connect on [my discord server(search for nezzak)](https://discord.gg/Nfst85VcyC)♟ to do some competitive progamming together!
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ---
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
@@ -73,13 +73,13 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ---
 
-### 📕 My Latest Blog posts:
+### 📕 My Latest Work:
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+- [Working as CTO in Nezzak Studio](https://nezzak.studio)
+- [Founded Cellsytes and made several websites for the client](https://cellsytes.com)
+- [Started my own Google Play Store account and made several apps having over 50k combined downloads](https://play.google.com/store/apps/dev?id=6649697237996878743)
+- [Soon launching App Store for IOS as well 💻](https://comingsoon.com)
+- [Worked on health and fitness blog website](https://bicephustle.com)
 <!-- BLOG-POST-LIST:END -->
 ---
 
@@ -87,6 +87,4 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhask4r&count_private=true)
 Last Edited on: 26/1/2022
