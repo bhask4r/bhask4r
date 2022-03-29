@@ -16,7 +16,8 @@
 - 💬 Talk to me about Gaming(CSGO), Tech, Food, Music, Travel, Space, History. Have interest in almost everything sorry(been reading encyclopedia since 5 years old)   
 - 😄 Pronouns: He/Him
 - 📝 Checkout my freelance work on [my website](https://bhaskar.tech/)
-- 👯 We can connect on [my discord server(search for nezzak)](https://discord.gg/Nfst85VcyC)♟ to do some competitive progamming together!
+- 👯 We can connect on [my discord server(search for nezzak)](https://discord.gg/Nfst85VcyC)💻 to do some competitive progamming together!
+- You will find me doing entrepreneurial work more than anything else😅
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
