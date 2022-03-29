@@ -39,7 +39,7 @@
 
 ---
 ### 🐱My Github stats:
-![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=bhask4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhask4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bhask4r/github-readme-stats)
 
 <!--START_SECTION:waka-->
