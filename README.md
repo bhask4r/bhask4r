@@ -40,7 +40,7 @@
 ---
 ### 🐱My Github stats:
 ![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhask4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bhask4r/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -69,7 +69,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-1-2022.
 
 ---
 
