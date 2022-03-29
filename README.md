@@ -9,9 +9,9 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+- 🏦 I'm currently working for a marketing agency where I make websites for our clients and help him digital marketing services.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+- 🤔 I use daily ```.dart```,``` .swift```, ```.js```
 - 🌱 I’m currently learning IOS Development and node.js
 - 💬 Talk to me about Gaming(CSGO), Tech, Food, Music, Travel, Space, History. Have interest in almost everything sorry(been reading encyclopedia since 5 years old)   
 - 😄 Pronouns: He/Him
@@ -20,7 +20,7 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
