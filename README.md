@@ -88,5 +88,5 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ----
 Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
-Last Edited on: 26/11/2020
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhask4r&count_private=true)
+Last Edited on: 26/1/2022
