@@ -88,4 +88,4 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
-Last Edited on: 26/1/2022
+Last Edited on: 27/8/2023
