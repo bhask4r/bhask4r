@@ -11,8 +11,8 @@
 ### 🤵 About Me:
 - 🏦 I'm currently working for a marketing agency where I make websites for our clients and help them with other digital marketing services.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.dart```,``` .swift```, ```.js```
-- 🌱 I’m currently learning IOS Development and node.js
+- 🤔 I use daily ```.python```,``` .cpp```, ```.dart```
+- 🌱 I’m currently learning Langchain framework
 - 💬 Talk to me about Gaming(CSGO), Tech, Food, Music, Travel, Space, History. Have interest in almost everything sorry(been reading encyclopedia since 5 years old)   
 - 😄 Pronouns: He/Him
 - 📝 Checkout my freelance work on [my website](https://bhaskar.tech/)
@@ -70,7 +70,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-1-2022.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 27-8-2023.
 
 ---
 
